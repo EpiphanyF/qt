@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtui/close.jpg</file>
+        <file>qtui/note.jpg</file>
+        <file>qtui/open.jpg</file>
+        <file>qtui/save.jpg</file>
+    </qresource>
+</RCC>
